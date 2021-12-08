@@ -27,7 +27,7 @@ class script(object):
 <a href="https://t.me/thewarriorsreal"> 𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
-©@thewarriorsreal
+© @thewarriorsreal
 
 •/whois :-give a user full details"""
     JSON_TXT ="""<b>JSON MODULE</b>
