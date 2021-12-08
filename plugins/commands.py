@@ -183,7 +183,7 @@ async def delete(bot, message):
         if media is not None:
             break
     else:
-        await msg.edit('This is not supported file format')
+        await msg.edit('This is not supported file format, Try again')
         return
 
     result = await Media.collection.delete_one({
