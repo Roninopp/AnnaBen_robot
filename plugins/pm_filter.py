@@ -416,7 +416,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/THEWARRIORS2bot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/thewarriorsreal')
+            InlineKeyboardButton('𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ', url='https://t.me/thewarriorsreal')
+            ],[
+            InlinekeyboardButton('ꪮ᭙ꪀꫀ𝘳', url='https://t.me/ANKIT3690'),
+            InlinekeyboardButton('ꪮ᭙ꪀꫀ𝘳', url='https://t.me/Saurav3BV6SA9LLElon7Musk')
+            ],[
+            InlinekeyboardButton('Share our channel', url='https://t.me/share/url?url=https://t.me/thewarriorsreal'),
+            InlinekeyboardButton('𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄', url='https://t.me/defenderofthemultiverse')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -774,7 +780,7 @@ async def advantage_spell_chok(msg):
                 )
             ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply('Ningal chodicha movie ude correct ayittulla name thazhekaanunna correct ayittulla button click cheyyu click cheyyu🤠, I cant find anything related to that\nDid you mean any one of these?🤠', reply_markup=InlineKeyboardMarkup(btn))
+    await msg.reply('I cant find anything related to that,Did you mean any one of these?🤔, Check it on Google.com', reply_markup=InlineKeyboardMarkup(btn))
     
 
 
