@@ -42,11 +42,6 @@ async def start(client, message):
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ', url='https://t.me/thewarriorsreal')
             ],[
-            InlinekeyboardButton('Owner', url='https://t.me/Saurav3BV6SA9LLElon7Musk'),
-            ],[
-            InlinekeyboardButton('Share our channel', url='https://t.me/share/url?url=https://t.me/thewarriorsreal'),
-            InlinekeyboardButton('𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄', url='https://t.me/defenderofthemultiverse')
-            ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
