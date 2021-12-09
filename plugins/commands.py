@@ -42,6 +42,12 @@ async def start(client, message):
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ', url='https://t.me/thewarriorsreal')
             ],[
+            InlinekeyboardButton('ꪮ᭙ꪀꫀ𝘳', url='https://t.me/ANKIT3690'),
+            InlinekeyboardButton('ꪮ᭙ꪀꫀ𝘳', url='https://t.me/Saurav3BV6SA9LLElon7Musk')
+            ],[
+            InlineKeyboardButton('Share our channel', url='https://t.me/share/url?url=https://t.me/thewarriorsreal'),
+            InlineKeyboardButton('𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄', url='https://t.me/defenderofthemultiverse')
+            ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
@@ -83,11 +89,11 @@ async def start(client, message):
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ ', url='https://t.me/thewarriorsreal')
             ],[
-            InlinekeyboardButton('Owner', url='https://t.me/ANKIT3690'),
-            InlinekeyboardButton('Owner', url='https://t.me/Saurav3BV6SA9LLElon7Musk')
+            InlineKeyboardButton('Owner', url='https://t.me/ANKIT3690'),
+            InlineKeyboardButton('Owner', url='https://t.me/Saurav3BV6SA9LLElon7Musk')
             ],[
-            InlinekeyboardButton('𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄', url='https://t.me/defenderofthemultiverse'),
-            InlinekeyboardButton('PORTAL TO MULTIVERSE', url='https://t.me/thecreatorofall')
+            InlineKeyboardButton('𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄', url='https://t.me/defenderofthemultiverse'),
+            InlineKeyboardButton('PORTAL TO MULTIVERSE', url='https://t.me/thecreatorofall')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
